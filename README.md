@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on Flutter, Dart
 - 👯 I’m interested in Blockchain Technology
   
- ```</About>```
+ ```</About me>```
 
 **Let's Connect with ME ☺️**
 
@@ -29,7 +29,7 @@ https://www.linkedin.com/mwlite/in/muhammadrmz
 
     *I'm a MultiThinker* ☺️
      
-          ```</Connecting...>```
+```</Connecting...>```
 
 **Let's Work Together forever🥰**
 
