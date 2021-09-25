@@ -5,7 +5,7 @@
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://wa.me/923234879062">
-    <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=applegreen" />
 </a>
 
 <a href="https://www.intagram.com/zapeeo_sheikh">
@@ -22,7 +22,7 @@
 </a>
 
 <a href="http://github.com/beingaravian">
-    <img src="https://img.shields.io/badge/github-FE7A16?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-FE7A16?style=for-the-badge&logo=github&logoColor=white&color=black" />
 </a>
 </div>
 
@@ -54,17 +54,27 @@
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-4285F4?style=for-the-badge&logo=java&logoColor=white&color=Red" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=red" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_Css-F05032?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/figma-00000F?style=for-the-badge&logo=figma&logoColor=white&color=orange" />
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-4285F4?style=for-the-badge&logo=solidity&logoColor=white&color=tan" />
 <img src="https://img.shields.io/badge/dart-0078D6?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-143?style=for-the-badge&logo=WordPress&logoColor=blue&color=grey&labelColor=white" />
 
 </div>
+<hr>
+
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+<p align="center">FrameWorks & Web 🕸️</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-143?style=for-the-badge&logo=WordPress&logoColor=blue&color=grey&labelColor=white" />
+
 
 <br>
 <hr>
