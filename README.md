@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=25d366" />
 </a>
 
-<a href="https://www.intagram.com/zapeeo_sheikh">
+<a href="http://www.intagram.com/zapeeo_sheikh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
