@@ -17,11 +17,11 @@
 </a>
 
 
-<a href="https://www.facebook.com/rameez.kashif.54">
+<a href="https://www.facebook.com/ZapeeoSheikh">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="http://github.com/beingaravian">
+<a href="http://github.com/ZapeeoSheikh">
     <img src="https://img.shields.io/badge/github-FE7A16?style=for-the-badge&logo=github&logoColor=white&color=black" />
 </a>
 </div>
@@ -34,9 +34,9 @@
 
 - 🌱 Currently, I'm focusing on **Flutter**
 
-- 👯 I’m looking to collaborate on **Any Open Source Project or Internship**
+- 👯 I’m looking to collaborate on **Open Source Project or Internship**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/beingaravian)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/ZapeeoSheikh)
 
 - 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
 
