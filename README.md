@@ -54,11 +54,12 @@
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
 
-<img src="https://img.shields.io/badge/Java-4285F4?style=for-the-badge&logo=java&logoColor=white&color=c52647" />
+<img src="https://img.shields.io/badge/Java-4285F4?style=for-the-badge&logo=java&logoColor=ed1d25&color=5382b1" />
+<img src="https://img.shields.io/badge/dotNet-4285F4?style=for-the-badge&logo=dotNet&logoColor=white&color=6c7cdc" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=red" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/figma-00000F?style=for-the-badge&logo=figma&logoColor=white&color=orange" />
+<img src="https://img.shields.io/badge/figma-00000F?style=for-the-badge&logo=figma&logoColor=white&color=orange" /><br>
 <img src="https://img.shields.io/badge/Tailwind_Css-F05032?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Solidity-4285F4?style=for-the-badge&logo=solidity&logoColor=white&color=343a40" />
 <img src="https://img.shields.io/badge/dart-0078D6?style=for-the-badge&logo=dart&logoColor=white" />
@@ -73,8 +74,8 @@
 <p align="center">FrameWorks & Web 🕸️</p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-143?style=for-the-badge&logo=WordPress&logoColor=blue&color=grey&labelColor=white" />
-<img src="https://img.shields.io/badge/kotlin-143?style=for-the-badge&logo=kotlin&labelColor=white" />
+<img src="https://img.shields.io/badge/WordPress-143?style=for-the-badge&logo=WordPress&logoColor=blue&color=tan&labelColor=tan" />
+<img src="https://img.shields.io/badge/kotlin-143?style=for-the-badge&logo=kotlin&labelColor=pink" />
 
 
 <br>
