@@ -36,7 +36,7 @@
 - 🔗 Have a Look at my [Portfolio](http://zapeeosheikh.unaux.com/elementor-57/)
 - 🌱 Currently, I'm focusing on **Flutter**
 - 👯 I’m looking to collaborate on **Open Source Project or Internship**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZapeeoSheikh/ZapeeoSheikh)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZapeeoSheikh?tab=repositories)
 - 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
 - 👣 I like Chess and Badminton
 - 🧿 Check my UI Design work at [Dribble](https://dribbble.com/muhammadrmz)
@@ -61,6 +61,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+  
+
 
 
 </div>
@@ -76,6 +79,15 @@
 
 <hr>
 
+  <div align="center">
+<p align="center">Design & Prototype 🖌️🪣</p>
+<!-- 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobexd/adobexd.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wireframe/wireframe.png"></code> -->
+
+<hr>
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
