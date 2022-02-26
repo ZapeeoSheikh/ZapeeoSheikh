@@ -36,7 +36,7 @@
 - 🔗 Have a Look at my [Portfolio](http://zapeeosheikh.unaux.com/elementor-57/)
 - 🌱 Currently, I'm focusing on **Flutter**
 - 👯 I’m looking to collaborate on **Open Source Project or Internship**
-- 👨‍💻 All of my projects are available at [GitHub](github.com/ZapeeoSheikh)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZapeeoSheikh/ZapeeoSheikh)
 - 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
 - 👣 I like Chess and Badminton
 - 🧿 Check my UI Design work at [Dribble](https://dribbble.com/muhammadrmz)
