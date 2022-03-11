@@ -40,7 +40,7 @@
 - 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
 - 👣 I like Chess and Badminton
 - 🧿 Check my UI Design work at [Dribble](https://dribbble.com/muhammadrmz)
-- ⚡ Fun fact **I am a MutliThinker**
+- ⚡ Fun fact ***I am a MutliThinker***
 
 
 <hr>
