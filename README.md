@@ -40,7 +40,7 @@
 - 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
 - 👣 I like Chess and Badminton
 - 🧿 Check my UI Design work at [Dribble](https://dribbble.com/muhammadrmz)
-- ⚡ Fun fact ***I am a Mutlimingle***
+- ⚡ Fun fact ***I am a Mutlimindle***
 
 
 <hr>
@@ -86,7 +86,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobexd/adobexd.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wireframe/wireframe.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 
 <hr>
 <details open>
