@@ -89,23 +89,40 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 
 <hr>
+​<p align="center"> 
+ ​  <a href="https://github.com/ZapeeoSheikh"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a> 
+ ​</p> 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&show_icons=true&theme=red&line_height=30">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZapeeoSheikh&theme=red">
 </p>
+
 <p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZapeeoSheikh&theme=red" />
 </p>
+ ​
+ ​<b align = center>🏆 GitHub Profile Trophy:</b> 
+ ​<p> 
+ <a href="https://github.com/ZapeeoSheikh">
+ <img width = 600 src="https://github-profile-trophy.vercel.app/?username=ZapeeoSheikh&theme=discord"/>
+ ​</a> 
+ ​</p> 
+ ​<hr> 
+
 </details>
     
     
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!!
-
 </div>
-    
+
+
+ ​<h2>Spotify Playing 🎧 </h2>  
+ ​     
+ ​![​Spotify​](https://novatorem.vercel.app/api/spotify)
     
