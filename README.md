@@ -105,7 +105,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZapeeoSheikh&theme=red" />
 </p>
  ​
- ​<b align = center>🏆 GitHub Profile Trophy:</b> 
+ ​<b align = center>🏆 GitHub Profile Trophy: </b> 
  ​<p> 
  <a href="https://github.com/ZapeeoSheikh">
  <img width = 600 src="https://github-profile-trophy.vercel.app/?username=ZapeeoSheikh&theme=discord"/>
