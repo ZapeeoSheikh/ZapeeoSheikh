@@ -35,7 +35,7 @@
 - 🔭 Computer Science Student at **Government College University Lahore**
 - 🔗 Have a Look at my [Portfolio](http://zapeeosheikh.unaux.com/elementor-57/)
 - 🌱 Currently, I'm focusing on **Flutter - dotNet**
-- 📖 Read my [Blogs](https://zapeeosheikh.medium.com/) here
+- 📖 Read my [Blogs](https://zapeeosheikh.medium.com/) here.
 - 👯 I’m looking to collaborate on **Open Source Project or Internship**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZapeeoSheikh?tab=repositories)
 - 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
