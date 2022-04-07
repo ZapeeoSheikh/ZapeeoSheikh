@@ -93,11 +93,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/Fikrym2021/desain_figma/main/assets/images/Post%2016.png"></code> -->
  
- 
- ![Figma_Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
- ​![​AdobeXD_Badge​](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
-
-
 
 <hr>
 ​<p align="center"> 
