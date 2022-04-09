@@ -2,7 +2,7 @@
 <h3 align="center">I am a Flutter Evangelist & dot Net Developer</h3>
 
 
-<p align="center">Let's connect!</p>
+<p align="left"> Let's connect!</p>
 
 
 <a href="https://twitter.com/ZapeeoSheikh">
@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingaravian&label=Views&color=blue&style=flat" alt="m-rameez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingaravian&label=Views&color=orange&style=flat" alt="m-rameez" /> </p>
 
 
 - 🔭 Computer Science Student at **Government College University Lahore**
@@ -107,7 +107,7 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&show_icons=true&theme=dark&line_height=40&width=120">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZapeeoSheikh&theme=dark">
 </p>
 
