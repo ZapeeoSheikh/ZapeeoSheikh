@@ -104,7 +104,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
-</div><br />
+</div>
 
 
 ### Softwares:
@@ -124,28 +124,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
   
-<hr>
-
-  <div align="center">
-<p align="center">Design & Prototype 🖌️🪣</p>
-<!-- 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobexd/adobexd.png"></code> -->
+    
+### Design & Prototype :
+<div align="left">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/Fikrym2021/desain_figma/main/assets/images/Post%2016.png"></code> -->
+</div>
  
 
-<hr>
-​<p align="center"> 
- ​  <a href="https://github.com/ZapeeoSheikh"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a> 
- ​</p> 
-<details open>
+</br>
 
+### My Github Stats 🟠 
   
   [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=xcode&hide_border=true)](https://github.com/ZapeeoSheikh)
 
- <summary> 😇 <b>My Github Stats</b>: </summary>
+
 <br>
 
 ![Muhammad Rameez's github stats](https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&show_icons=true&hide_border=true)&nbsp;&nbsp;
@@ -154,7 +147,7 @@
 <p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZapeeoSheikh&theme=red" />
 </p>
- ​
+ <!--
  ​<b align = center>🏆 GitHub Profile Trophy: </b> 
  ​<p> 
  <a href="https://github.com/ZapeeoSheikh">
@@ -162,7 +155,7 @@
  ​</a> 
  ​</p> 
  ​<hr> 
-
+-->
 </details>
     
     
