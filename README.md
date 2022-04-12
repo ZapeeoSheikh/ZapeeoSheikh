@@ -1,8 +1,13 @@
-<h1 align="center">Hi �<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Muhammad Rameez</h1>
-<h3 align="center">I am a Flutter Evangelist & dot Net Developer</h3>
+<h1 align="center " style:"color=F07C3D">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Muhammad Rameez</h1>
+
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+dot+Net+Developer...."></h3>
+    
 
 
-<p align="left"> Let's connect !!</p>
+<!-- <h3 align="center">I am a Flutter Evangelist & dot Net Developer</h3> !-->
+
+
+<p align="left"> Join the Ecosystem !!</p>
 
 
 <a href="https://twitter.com/ZapeeoSheikh">
@@ -28,7 +33,7 @@
 </a>
 
 <br/><br/>
-
+<!--Profile view counter API!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingaravian&label=Views&color=orange&style=flat" alt="m-rameez" /> </p>
 
 
@@ -101,7 +106,7 @@
 <details open>
 
   
-  [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=xcode)](https://github.com/ZapeeoSheikh)
+  [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=xcode&hide_border=true)](https://github.com/ZapeeoSheikh)
 
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
