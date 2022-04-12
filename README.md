@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+dot+Net+Developer....">
     
 <!--Profile view counter API!-->
-<img src="https://komarev.com/ghpvc/?username=beingaravian&label=Views&color=orange&style=flat" alt="m-rameez" />
+<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=orange&style=flat" alt="m-rameez" />
 
 
 
@@ -38,6 +38,22 @@
 - 👣 I like Chess and Badminton
 - 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz)
 - ⚡ Fun fact ***I am a Mutlimindle***
+
+<img align="left" src="svg/givingback.svg" height="222px"/>
+
+```
+    Human Information
+    ------------------------------------------
+    Name: Muhammad Rameez
+    Useranme: Zapeeo Sheikh
+    Gender: Male
+    Age: 19
+    Hobbies: ["Writing"], ["Coding"], ["Exploring"], ["Music"]
+    Languages: ["Urdu"], ["English US"], ["English UK"]
+    University: Government College University, Lahore
+```
+
+<br>
 
 
 ### 📕 Blog Post
