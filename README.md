@@ -74,15 +74,14 @@
 <img align="right" src="leftRameez.png" height="277px"/>
 
 ```
-    Human Information
+    Voluntering Information
     ------------------------------------------
-    Name: Muhammad Rameez
-    Useranme: Zapeeo Sheikh
-    Gender: Male
-    Age: 19
-    Hobbies: ["Writing"], ["Coding"], ["Exploring"], ["Music"]
-    Languages: ["Urdu"], ["English US"], ["English UK"]
-    University: Government College University, Lahore
+    Campus Director @ Young International Conclave
+    Graphics SUB-Head @ IEEE GCU Student Chapter
+    Co Director IT @ GCU ACM Student Chapter
+    UI/UX Lead @ GDSC GCU
+    Ambassador @ Great Learning
+    Learn Student Ambassador @ Microsoft
 ```
 
 ### Languages and Tools:
