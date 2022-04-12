@@ -1,26 +1,24 @@
-<h1 align="center " style:"color=F07C3D">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Muhammad Rameez</h1>
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Muhammad Rameez!](https://www.linkedin.com/in/muhammadrmz) 
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+dot+Net+Developer...."></h3>
+<!-- HaedLine !-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+dot+Net+Developer....">
     
+<!--Profile view counter API!-->
+<img src="https://komarev.com/ghpvc/?username=beingaravian&label=Views&color=orange&style=flat" alt="m-rameez" />
 
 
-<!-- <h3 align="center">I am a Flutter Evangelist & dot Net Developer</h3> !-->
 
+<!-- Social Links !-->
+ _Join the Ecosystem 💫_
 
-<p align="left"> Join the Ecosystem !!</p>
-
-
-<a href="https://twitter.com/ZapeeoSheikh">
-  <img align="left" alt="Rameez's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/muhammadrmz">
   <img align="left" alt="Rameez's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ZapeeoSheikh">
   <img align="left" alt="Rameez's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/ZapeeoSheikh">
-  <img align="left" alt="Rameez's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://bit.ly/muhammadrameez">
+  <img align="left" alt="Rameez's Socials" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/at-and-t.svg" />
 </a>
 <a href="https://instagram.com/zapeeo_sheikh/">
   <img align="left" alt="Rameez's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -32,24 +30,17 @@
     <img align="left" alt="Rameez's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
-<br/><br/>
-<!--Profile view counter API!-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingaravian&label=Views&color=orange&style=flat" alt="m-rameez" /> </p>
+<br/>
 
-
-- 🔭 Computer Science Student at **Government College University Lahore**
-- 🔗 Have a Look at my [Portfolio](http://zapeeosheikh.unaux.com/elementor-57/)
-- 🌱 Currently, I'm focusing on **Flutter - dotNet**
-- 📖 Read my [Blogs](https://zapeeosheikh.medium.com/) here.
-- 👯 I’m looking to collaborate on **Open Source Project or Internship**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZapeeoSheikh?tab=repositories)
-- 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
+### About me 🚀
+- 🌱 Works on **Flutter** by passion and **dotNet** by field
+- 👯 Love to help people and grow as a community
 - 👣 I like Chess and Badminton
-- 🧿 Check my UI Design work at [Dribble](https://dribbble.com/muhammadrmz)
+- 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz)
 - ⚡ Fun fact ***I am a Mutlimindle***
 
 
-<hr>
+### 📕 Blog Post
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -111,11 +102,9 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&show_icons=true&theme=dark&line_height=40&width=120">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZapeeoSheikh&theme=dark">
-</p>
-
+![Muhammad Rameez's github stats](https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Muhammad Rameez's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZapeeoSheikh&layout=compact&langs_count=8&hide_border=true)
+<br />
 <p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZapeeoSheikh&theme=red" />
 </p>
