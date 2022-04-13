@@ -110,32 +110,32 @@
 
 <div align="center">
     <table align="right">
-        <th colspan="3">Most Common Languages</th>
+        <th colspan="3">Most Commonly Used Languages</th>
         <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" width="65px"/>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" width="40px"/>
                 <br /> Bootstrap
             </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" width="65px"/>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" width="40px"/>
                 <br /> HTML
             </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="65px"/>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40px"/>
                 <br /> C sharp
             </td>
         </tr>
         <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="65px"/>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40px"/>
                 <br /> SQL
             </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="65px"/>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="40px"/>
                 <br /> Flutter
             </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="65px"/>
+            <td align="center" width="110" height="87">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40px"/>
                 <br /> Dart
             </td>
         </tr>
