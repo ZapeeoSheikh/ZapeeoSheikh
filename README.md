@@ -79,6 +79,7 @@
     Campus Director @ Young International Conclave
     Graphics SUB-Head @ IEEE GCU Student Chapter
     Co Director IT @ GCU ACM Student Chapter
+    Flutter Developer @ Flutter Lahore
     UI/UX Lead @ GDSC GCU
     Ambassador @ Great Learning
     Learn Student Ambassador @ Microsoft
