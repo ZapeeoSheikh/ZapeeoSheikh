@@ -10,6 +10,9 @@
     
 > Be Creative to Think Unique to Be Unique - **M Rameez** 💕
 
+<!-- Octocat gif -->
+<img align="right" alt="GIF" height="150px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
 <!--Profile view counter API!-->
 <img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=orange&style=flat" alt="m-rameez" />
 
