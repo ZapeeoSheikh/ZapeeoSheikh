@@ -11,7 +11,6 @@
 > Be Creative to Think Unique to Be Unique - **M Rameez** 💕
 
 <!-- Octocat gif -->
-<img align="right" alt="GIF" height="150px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 <!--Profile view counter API!-->
 <img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=orange&style=flat" alt="m-rameez" />
@@ -46,7 +45,8 @@
 - 🌱 Works on **Flutter** by passion and **dotNet** by field
 - 👯 Love to help people and grow as a community
 - 👣 I like Chess and Badminton
-- 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz)
+- 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
 - ⚡ Fun fact ***I am a Mutlimindle***
 
 <img align="left" src="rightRameez.png" height="222px"/>
