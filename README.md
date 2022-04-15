@@ -192,11 +192,11 @@
 </p>
 
  <!--
- ​<b align = center>🏆 GitHub Profile Trophy: </b> 
- ​<p> 
+ <b align = center>🏆 GitHub Profile Trophy: </b> 
+ <p> 
  <a href="https://github.com/ZapeeoSheikh">
  <img width = 600 src="https://github-profile-trophy.vercel.app/?username=ZapeeoSheikh&theme=discord"/>
- ​</a> 
+ </a> 
  ​</p> 
  ​<hr> 
 -->
