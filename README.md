@@ -12,7 +12,7 @@
 
 
 <!--Profile views counter API!-->
-<img src="https://komarev.com/ghpvc/?username=zapeeosheikh&label=visiters&color=orange&style=flat" alt="m-rameez" />
+<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=orange&style=flat" alt="m-rameez" />
 
 
 
