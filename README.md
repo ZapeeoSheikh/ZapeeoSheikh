@@ -85,7 +85,7 @@
 
 
 
-<img align="right" src="leftRameez.png" height="277px"/>
+<img align="right" src="leftRameez.png" height="250px"/>
 
 
 ```
