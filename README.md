@@ -3,7 +3,7 @@
 </p>
 
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Muhammad Rameez!](https://www.linkedin.com/in/muhammadrmz) 
+## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
 
 <!-- HaedLine !-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+dot+Net+Developer....">
@@ -12,7 +12,7 @@
 
 
 <!--Profile views counter API!-->
-<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=orange&style=flat" alt="m-rameez" />
+<img src="https://komarev.com/ghpvc/?username=zapeeosheikh&label=visiters&color=orange&style=flat" alt="m-rameez" />
 
 
 
@@ -56,7 +56,7 @@
 <!-- Octocat gif -->
 - 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz)<img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-- ⚡ Fun fact ***I am a Mutlimindle***
+- ⚡ Fun fact ***dotnet by field, Flutter by Passion***
 
 <img align="left" src="rightRameez.png" height="222px"/>
 
