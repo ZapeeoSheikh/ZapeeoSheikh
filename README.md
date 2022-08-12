@@ -25,7 +25,7 @@
  _Join the Ecosystem 💫_
 
 <a href="https://linkedin.com/in/muhammadrmz">
-  <img align="left" alt="Rameez's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rameez's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ZapeeoSheikh">
   <img align="left" alt="Rameez's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -50,7 +50,7 @@
 <br/>
 
 ### About me 🚀
-- 🌱 Works on **Flutter** by passion and **dotNet** by field
+- 🌱 Works on **Flutter** by passion and **DotNet** by field
 - 👯 Love to help people and grow as a community
 - 👣 I like Chess and Badminton
 <!-- Octocat gif -->
