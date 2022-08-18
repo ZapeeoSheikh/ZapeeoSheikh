@@ -67,7 +67,7 @@
     Useranme: Zapeeo Sheikh
     Gender: Male
     Age: 20
-    Hobbies: ["Blogging"], ["Coding"], ["Exploring"], ["Opensource"]
+    Hobbies: ["Blogging"], ["Coding"], ["Exploring"], ["Opensource"],["Traveling"]
     Languages: ["Urdu"], ["English US"], ["English UK"]
     University: Government College University, Lahore
 ```
