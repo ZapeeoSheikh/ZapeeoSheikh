@@ -64,7 +64,7 @@
     Human Information
     ------------------------------------------
     Name: Muhammad Rameez
-    Useranme: Zapeeo Sheikh
+    Username: Zapeeo Sheikh
     Gender: Male
     Age: 20
     Hobbies: ["Blogging"], ["Coding"], ["Exploring"], ["Opensource"],["Traveling"]
