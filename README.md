@@ -2,7 +2,6 @@
     <img src="topRameez.png" width="480px"/>    
 </p>
 
-
 ## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
 
 <!-- HaedLine !-->
@@ -13,12 +12,6 @@
 
 <!--Profile views counter API!-->
 <img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=orange&style=flat" alt="m-rameez" />
-
-
-
-
-
-
 
 
 <!-- Social Links !-->
