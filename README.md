@@ -114,9 +114,6 @@
 
 
 
-/*Hello world*/
-
-
 <!-- Most Commonly Used Languages -->
 
 <div align="center">
