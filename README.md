@@ -28,7 +28,6 @@
   <img align="left" alt="Rameez's Socials" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/at-and-t.svg" />
 </a>
 
-//
 
 
 <a href="https://instagram.com/zapeeo_sheikh/">
