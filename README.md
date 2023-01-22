@@ -43,13 +43,13 @@
 <br/>
 
 ### About me 🚀
-- 🌱 Works on **Flutter** by passion and **dotNet** by field
+- 🌱 Works on **Flutter** by passion and **data Engineering** by field
 - 👯 Love to help people and grow as a community
 - 👣 I like Chess and Badminton
 <!-- Octocat gif -->
 - 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz)<img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-- ⚡ Fun fact ***data Engineering by field, Flutter by Passion***
+- ⚡ Fun fact ***Started Journey with dotnet then switch data Engineering by field, Flutter by Passion***
 
 <img align="left" src="rightRameez.png" height="222px"/>
 
