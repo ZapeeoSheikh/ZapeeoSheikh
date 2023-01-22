@@ -6,7 +6,7 @@
 ## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
 
 <!-- HaedLine !-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+dot+Net+Developer....">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
     
 > Be Creative to Think Unique, to Be Unique - **M Rameez** 💕
 
@@ -49,7 +49,7 @@
 <!-- Octocat gif -->
 - 💖 I am a creative [Artist](https://dribbble.com/muhammadrmz)<img align ="right" alt="GIF" height="70px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-- ⚡ Fun fact ***dotnet by field, Flutter by Passion***
+- ⚡ Fun fact ***data Engineering by field, Flutter by Passion***
 
 <img align="left" src="rightRameez.png" height="222px"/>
 
