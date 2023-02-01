@@ -87,9 +87,7 @@
     Voluntering Information
     ------------------------------------------
     Google DSC Lead @ Google Developers
-    Campus Director @ Young International Conclave
-    Graphics SUB-Head @ IEEE GCU Student Chapter
-    Co Director IT @ GCU ACM Student Chapter
+    Campus Ambassador @ Cogent Labs 
     Flutter Developer @ Flutter Lahore
     Ambassador @ Great Learning
     Associate Application Developer @ Easy Solutions 
