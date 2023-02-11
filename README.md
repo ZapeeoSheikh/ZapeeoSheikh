@@ -2,7 +2,6 @@
     <img src="TopRameez.png" width="480px"/>    
 </p>
 
-
 ## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
 
 <!-- HaedLine !-->
