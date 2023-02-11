@@ -6,13 +6,13 @@
 ## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
 
 <!-- HaedLine !-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=F07C3D&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=453987&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
     
 > Be Creative to Think Unique, to Be Unique - **M Rameez** 💕
 
 
 <!--Profile views counter API!-->
-<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=orange&style=flat" alt="m-rameez" />
+<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=453987&style=flat" alt="m-rameez" />
 
 
 <!-- Social Links !-->
@@ -36,14 +36,14 @@
 <a href="https://www.facebook.com/ZapeeoSheikh/">
   <img align="left" alt="Rameez's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://wa.me/923234879062">
+<a href="https://wa.me/923244812756">
     <img align="left" alt="Rameez's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
 <br/>
 
 ### About me 🚀
-- 🌱 Works on **Flutter** by passion and **data Engineering** by field
+- 🌱 Works on **Flutter** by passion and **Data Engineering** by field
 - 👯 Love to help people and grow as a community
 - 👣 I like Chess and Badminton
 <!-- Octocat gif -->
@@ -60,7 +60,7 @@
     Username: Zapeeo Sheikh
     Gender: Male
     Age: 21
-    Hobbies: ["Blogging"], ["Coding"], ["Exploring"], ["Opensource"],["Traveling"]
+    Hobbies: ["Blogging"], ["Journaling"], ["Books Reading"], ["Opensource"],["Traveling"]
     Languages: ["Urdu"], ["English US"], ["English UK"]
     University: Government College University, Lahore
 ```
@@ -94,7 +94,7 @@
 ```
 
 
-### Languages and Tools:
+### Languages:
 
 
 <!-- Row 1 -->
@@ -115,7 +115,7 @@
 <!-- Most Commonly Used Languages -->
 
 <div align="center">
-    <table align="right">
+    <table align="right" border="2" bordercolor="#d6f0fc">
         <th colspan="3">Most Commonly Used Languages</th>
         <tr>
             <td align="center" width="110" height="87">
@@ -152,7 +152,7 @@
 </br>
 
 
-### Softwares:
+### Framework and Tools:
 
 <!-- Row 1 -->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -172,43 +172,72 @@
 <img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png">
 <img width="26" height="auto" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
 <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+<img align="left" alt="Canva" width="26px" src="https://img.icons8.com/fluency/48/000000/canva.png"/>
 
+ 
  
  
 
 </br>
 
-### My Github Stats 🟠 
+<!-- ### My Github Stats 🟠 
   
-  [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=xcode&hide_border=true)](https://github.com/ZapeeoSheikh)
+  [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=D6F0FC&hide_border=true)](https://github.com/ZapeeoSheikh) -->
 
 
 <br>
 
+<table align="right" border="2" bordercolor="#D6F0FC">
+  <tr>
+    <td>  
+        
+![Muhammad Rameez's github stats](https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&theme=D6F0FC&show_icons=true&hide_border=true) 
+        
+    
+<td>
+    
+![Muhammad Rameez's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZapeeoSheikh&theme=D6F0FC&layout=compact&langs_count=8&hide_border=true)   
+</td>       
+   </tr> 
+</table>
 
-![Muhammad Rameez's github stats](https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&show_icons=true&hide_border=true) &nbsp;&nbsp;
 
-![Muhammad Rameez's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZapeeoSheikh&layout=compact&langs_count=8&hide_border=true)
-<br />
-<p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZapeeoSheikh&theme=red" />
-</p>
 
- <!--
- <b align = center>🏆 GitHub Profile Trophy: </b> 
- <p> 
+<!-- </br>
+<table align="right" border="2" bordercolor="#D6F0FC">
+<tr>
+ <b align ="left">🏆 GitHub Profile Trophy: </b> 
+ </tr> 
+    <tr>
  <a href="https://github.com/ZapeeoSheikh">
- <img width = 600 src="https://github-profile-trophy.vercel.app/?username=ZapeeoSheikh&theme=discord"/>
+ <img width = 600 src="https://github-profile-trophy.vercel.app/?username=ZapeeoSheikh&theme=D6F0FC"/>
  </a> 
- ​</p> 
- ​<hr> 
--->
+ </tr> 
+ </table> -->
+
+
+
+
+<table align="center" border="4" bordercolor="#D6F0FC">
+<tr>
+    <td>
+        
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZapeeoSheikh&theme=buefy&hide_border=true)](https://git.io/streak-stats)        
+
+</td>
+
+    
+</tr>
+</table>
+ 
+
+
 </details>
     
     
 <span align="center">
 
-### Show some ❤️ by starring some of the repositories!!
+### Show some ❤️ by ⭐️ some of the repositories!!
 </span>
 
 
