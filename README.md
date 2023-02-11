@@ -51,7 +51,7 @@
 
 - ⚡ Fun fact ***Started Journey with dotnet then switch data Engineering by field, Flutter by Passion***
 
-<img align="left" src="rightRameez.png" height="222px"/>
+<img align="left" src="LeftRameez.png" height="222px"/>
 
 ```
     Human Information
@@ -80,7 +80,7 @@
 
 
 
-<img align="right" src="leftRameez.png" height="250px"/>
+<img align="right" src="RightRameez.png" height="250px"/>
 
 
 ```
@@ -217,8 +217,9 @@
 
 
 
+<img align="left" src="LeftRameez.png" height="250px"/>
 
-<table align="center" border="4" bordercolor="#D6F0FC">
+<table align="right" border="4" bordercolor="#D6F0FC">
 <tr>
     <td>
         
@@ -233,8 +234,10 @@
 
 
 </details>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
     
-    
+<div align="center">
+
 <span align="center">
 
 ### Show some ❤️ by ⭐️ some of the repositories!!
@@ -249,5 +252,9 @@
     <a href="https://www.google.com/search?q=zapeeosheikh&oq=zapeeo&aqs=chrome.1.69i60j69i59j69i57j0i10j69i60l3j69i65.4133j0j4&sourceid=chrome&ie=UTF-8"> Find me on Google 😄</a>
     <p>Bye Bye 💜 </p>
 </div>
+
+
+</div>
+
 
 
