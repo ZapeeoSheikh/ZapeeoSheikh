@@ -216,7 +216,7 @@
 
 
 
-<img align="left" src="LeftRameez.png" height="200px"/>
+<img align="left" src="LeftRameez.png" height="150px"/>
 
 <table align="right" border="4" bordercolor="#D6F0FC">
 <tr>
