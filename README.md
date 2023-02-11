@@ -6,13 +6,13 @@
 ## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
 
 <!-- HaedLine !-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=453987&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
     
 > Be Creative to Think Unique, to Be Unique - **M Rameez** 💕
 
 
 <!--Profile views counter API!-->
-<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=453987&style=flat" alt="m-rameez" />
+<img src="https://komarev.com/ghpvc/?username=beingaravian&label=visiters&color=FF3A61&style=flat" alt="m-rameez" />
 
 
 <!-- Social Links !-->
@@ -116,7 +116,7 @@
 
 <div align="center">
     <table align="right" border="2" bordercolor="#d6f0fc">
-        <th colspan="3">Most Commonly Used Languages</th>
+        <th colspan="3" >Most Commonly Used Languages</th>
         <tr>
             <td align="center" width="110" height="87">
                 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" width="40px"/>
@@ -182,7 +182,7 @@
 
 <!-- ### My Github Stats 🟠 
   
-  [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=D6F0FC&hide_border=true)](https://github.com/ZapeeoSheikh) -->
+  [![Muhammad Rameez's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZapeeoSheikh&theme=buefy&hide_border=true)](https://github.com/ZapeeoSheikh) -->
 
 
 <br>
@@ -191,12 +191,12 @@
   <tr>
     <td>  
         
-![Muhammad Rameez's github stats](https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&theme=D6F0FC&show_icons=true&hide_border=true) 
+![Muhammad Rameez's github stats](https://github-readme-stats.vercel.app/api?username=ZapeeoSheikh&theme=buefy&show_icons=true&hide_border=true) 
         
     
 <td>
     
-![Muhammad Rameez's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZapeeoSheikh&theme=D6F0FC&layout=compact&langs_count=8&hide_border=true)   
+![Muhammad Rameez's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZapeeoSheikh&theme=buefy&layout=compact&langs_count=8&hide_border=true)   
 </td>       
    </tr> 
 </table>
@@ -247,7 +247,7 @@
 
 <div align="right">
     <a href="https://www.google.com/search?q=zapeeosheikh&oq=zapeeo&aqs=chrome.1.69i60j69i59j69i57j0i10j69i60l3j69i65.4133j0j4&sourceid=chrome&ie=UTF-8"> Find me on Google 😄</a>
-    <p>Bye Bye 🧡 </p>
+    <p>Bye Bye 💜 </p>
 </div>
 
 
