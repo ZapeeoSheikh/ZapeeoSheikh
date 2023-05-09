@@ -86,6 +86,7 @@
     Voluntering Information
     ------------------------------------------
     Google DSC Lead @ Google Developers
+    Opensource Contributor @ GSSOC
     Campus Ambassador @ Cogent Labs 
     Flutter Developer @ Flutter Lahore
     Ambassador @ Great Learning
