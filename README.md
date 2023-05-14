@@ -4,7 +4,7 @@
 
 ## Hi 👋, I'm [Muhammad Rameez!](http://www.muhammadrameez.ml/) 
 
-<!-- HaedLine !-->
+<!-- HeadLine !-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
     
 > Be Creative to Think Unique, to Be Unique - **M Rameez** 💕
