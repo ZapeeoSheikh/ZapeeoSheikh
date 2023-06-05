@@ -91,7 +91,7 @@
     Campus Ambassador @ Cogent Labs 
     Flutter Developer @ Flutter Lahore
     Ambassador @ Great Learning
-    Associate Application Developer @ Easy Solutions 
+    Application Developer @ Easy Solutions 
 ```
 
 
