@@ -90,8 +90,6 @@
     Opensource Contributor @ GSSOC 2023
     Mentor @ GSSOC 23
     Campus Ambassador @ Cogent Labs 
-    Flutter Developer @ Flutter Lahore
-    Ambassador @ Great Learning
     Application Developer @ Easy Solutions 
 ```
 
