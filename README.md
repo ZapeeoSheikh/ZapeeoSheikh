@@ -85,7 +85,8 @@
 ```
     Voluntering Information
     ------------------------------------------
-    Google DSC Lead @ Google Developers
+    Alpha MLSA @ Microsoft
+    Google DSC Lead 23 @ Google
     Opensource Contributor @ GSSOC 2023
     Mentor @ GSSOC 23
     Campus Ambassador @ Cogent Labs 
