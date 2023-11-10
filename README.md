@@ -85,7 +85,7 @@
 ```
     Voluntering Information
     ------------------------------------------
-    Alpha MLSA @ Microsoft
+    Beta MLSA @ Microsoft
     Google DSC Lead 23 @ Google
     Opensource Contributor @ GSSOC 2023
     Mentor @ GSSOC 23
