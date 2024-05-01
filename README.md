@@ -42,7 +42,7 @@
 <br/>
 
 ### About me 🚀
-- 🌱 Works on **Flutter** by passion and **Data Engineering** by field
+- 🌱 Works on **Flutter** by passion and now passion is my field
 - 👯 Love to help people and grow as a community
 - 👣 I like Chess and Badminton
 <!-- Octocat gif -->
